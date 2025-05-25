@@ -1,1 +1,1 @@
-# Javafx_Learn
+# Calculator (Full stack with javaFx)
